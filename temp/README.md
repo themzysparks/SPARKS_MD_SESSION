@@ -1,5 +1,5 @@
 <p align="center">  
-  <a href="https://youtu.be/Wssss">
+  <a href="https://github.com/themzysparks">
     <img alt="sparks" height="300" src="https://raw.githubusercontent.com/themzysparks/SPARKS_MD/main/sparks.jpg">
     <h1 align="center">SPARKS MD - Version 1.0</h1>
   </a>
@@ -84,7 +84,7 @@ Now deploy to Koyeb:
 ## 👨‍💻 CREDITS
 
 <p align="center">
-<a href="https://github.com/themzysparks"><img src="https://avatars.githubusercontent.com/u/149763717?v=4" width="250" height="250" alt="theMzysparks"/></a>
+<a href="https://github.com/themzysparks"><img src="https://raw.githubusercontent.com/themzysparks/SPARKS_MD/main/sparks.jpg" width="250" height="250" alt="theMzysparks"/></a>
 <br>
 <b>SPARKS MD - Developed by SPARKS</b>
 </p>
