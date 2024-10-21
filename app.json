@@ -1,9 +1,9 @@
 {
-    "name": "coderxsa session",
-    "description": "coderxsa",
+    "name": "sparks_md session",
+    "description": "sparks_md Session generate",
     "logo": "https://raw.githubusercontent.com/coderxsa/WABot/main/WA-BOT/cdn/images/logo2.png",
-    "repository": "https://github.com/coderxsa/CYGNUS-BOT",
-    "keywords": ["coderxsa"],
+    "repository": "https://github.com/themzysparks/SPARKS_MD",
+    "keywords": ["sparks"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
